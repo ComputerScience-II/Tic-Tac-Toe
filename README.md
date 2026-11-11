@@ -36,8 +36,11 @@ Built-in assertion tests for win detection, tie detection, and adjacency logic
 Tech:
 
 C++ (standard library only: iostream, vector, cassert)
+
 Git Actions for CI (test, build)
+
 Vitest (unit testing)
+
 Tailwind CSS (styling)
 
 1 | 2 | 3
