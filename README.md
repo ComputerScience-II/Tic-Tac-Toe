@@ -33,8 +33,12 @@ Branching path choices and an in-game shop
 Input validation to handle invalid moves and menu choices
 Built-in assertion tests for win detection, tie detection, and adjacency logic
 
-Tech: 
+Tech:
+
 C++ (standard library only: iostream, vector, cassert)
+Git Actions for CI (test, build)
+Vitest (unit testing)
+Tailwind CSS (styling)
 
 1 | 2 | 3
 ---------
